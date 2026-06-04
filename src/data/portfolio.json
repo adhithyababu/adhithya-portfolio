@@ -1,0 +1,83 @@
+{
+  "profile": {
+    "name": "Adhithya Babu",
+    "shortName": "Adhithya",
+    "tagline": "Full-stack developer crafting modern web experiences",
+    "role": "MERN Stack Developer",
+    "specialization": "Full-stack Web · AI Integration",
+    "location": "Kerala, India",
+    "bio": "I'm a MERN stack developer with a passion for building full-stack web applications that are clean, performant, and purposeful. I work across the entire stack — from designing REST APIs and database schemas to crafting responsive React UIs. Lately I've been diving deeper into AI/ML integrations, bringing intelligent features into real-world products.",
+    "social": {
+      "github": "https://github.com/adhithyababuu",
+      "linkedin": "https://linkedin.com/in/adhithyababuu",
+      "email": "adhithyababu003@gmail.com",
+      "phone": "+91 90745 10497",
+      "whatsapp": "https://wa.me/919048393348"
+    }
+  },
+  "skills": [
+    {
+      "name": "Frontend",
+      "items": ["React.js", "JavaScript ES6", "HTML5 / CSS3", "Responsive UI", "REST Integration"]
+    },
+    {
+      "name": "Backend",
+      "items": ["Node.js", "Express.js", "REST APIs", "JWT Auth", "MVC Pattern", "Flask"]
+    },
+    {
+      "name": "Database",
+      "items": ["MongoDB", "Mongoose", "Schema Design", "Aggregations"]
+    },
+    {
+      "name": "AI / ML",
+      "items": ["Python", "TensorFlow", "Hugging Face", "DistilBERT", "NLP", "Model Fine-tuning"]
+    }
+  ],
+  "projects": [
+    {
+      "id": "mental-health-ai",
+      "title": "AI-Powered Mental Health Companion",
+      "subtitle": "Emotion-aware chatbot with DistilBERT",
+      "description": "An intelligent chatbot leveraging a fine-tuned DistilBERT transformer for real-time emotion detection. Features a lightweight Flask backend for fast inference and integrated text-to-speech accessibility.",
+      "stack": ["Python", "TensorFlow", "Flask", "Hugging Face", "DistilBERT", "JavaScript"],
+      "role": "Full-stack Developer",
+      "year": "2025",
+      "link": "",
+      "highlight": true
+    },
+    {
+      "id": "agilespace",
+      "title": "AgileSpace",
+      "subtitle": "Kanban project management tool",
+      "description": "A robust project management tool with an interactive Kanban-style task board. Built with decoupled architecture, strict MVC design patterns, and secure JWT-based authentication.",
+      "stack": ["MongoDB", "Express.js", "React.js", "Node.js", "JWT", "REST APIs"],
+      "role": "Full-stack Developer",
+      "year": "2025",
+      "link": "https://lnkd.in/gGgWTVCf",
+      "github": "https://github.com/adhithyababuu",
+      "highlight": false
+    },
+    {
+      "id": "placement-portal",
+      "title": "College Placement Portal",
+      "subtitle": "Multi-role recruitment management system",
+      "description": "A multi-role web application streamlining campus recruitment. Implements role-based access control for Students, Admins, and Recruiters to manage profiles and job application flows.",
+      "stack": ["MongoDB", "Express.js", "React.js", "Node.js", "JWT"],
+      "role": "Full-stack Developer",
+      "year": "2025",
+      "link": "",
+      "highlight": false
+    },
+    {
+      "id": "expense-tracker",
+      "title": "Expense Tracker",
+      "subtitle": "Real-time financial tracking app",
+      "description": "A clean financial tracking app for logging income and expenses. Focuses on efficient React state management to deliver real-time balance updates and simple budgeting tools.",
+      "stack": ["MongoDB", "Express.js", "React.js", "Node.js", "REST APIs"],
+      "role": "Full-stack Developer",
+      "year": "2025",
+      "link": "",
+      "highlight": false
+    }
+  ]
+}
